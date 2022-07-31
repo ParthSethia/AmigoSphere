@@ -23,7 +23,7 @@ function App() {
 return(
 <avatarchoose>
 <body>
-<iframe id="world" src="https://simmer.io/@ps_uNITED/amigosphere"class="frame" ></iframe>
+<iframe id="world" src="https://i.simmer.io/@ps_uNITED/amigosphere"class="frame" ></iframe>
 </body>
 </avatarchoose>
 );
