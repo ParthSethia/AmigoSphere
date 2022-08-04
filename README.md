@@ -1,2 +1,2 @@
-# MetaSphere
-An metaverse ecommerce app.
+# AmigoSphere
+An metaverse ecommerce app. Created with ❤ for Flipkart Grid 4.0
